@@ -22,7 +22,7 @@ I am also passionate about tech and community. I am an advocate for women in tec
 
 <h2> 👩🏽‍💻 About Me </h2>
 
-😄 Pronouns: she/her
+😄 &nbsp; Pronouns: she/her
 
 💼 &nbsp; I’m currently working as a Front-End Engineer.
 

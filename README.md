@@ -26,9 +26,9 @@ I am also passionate about tech and community. I am an advocate for women in tec
 
 💼 &nbsp; I’m currently working as a Front-End Engineer.
 
-🌱 &nbsp; I’m currently learning ReactJs.
+🌱 &nbsp; I’m currently learning Open source governance model.
 
-💬 &nbsp; Ask me about Web development, & Community Management.
+💬 &nbsp; Ask me about Web development, Open source, Documentation & Community Management.
 
 📫 &nbsp; How to reach me: [chibueze.favour.o@gmail.com](mailto:chibueze.favour.o@gmail.com)
 
